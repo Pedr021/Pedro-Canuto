@@ -1,7 +1,7 @@
 ## Olá eu sou o Pedro 
 - 🖥💻 atualmente trabalho na parte de Back-end
 - 📕📗 Estudande de Ciencias da Computação 
-- 💷📃 Conhecimento das Linguagens  - C# , JavaScript , Python  , C , CSS , HTML.
+- 💷📃 Conhecimento das Linguagens  - C# ,Java, JavaScript , Python  , NodeJs, C , CSS , HTML.
 - 🎞🏮 Sempre buscando conhecimento na area de Programação
 <div align="center">
   <a href="https://github.com/Pedr021">
